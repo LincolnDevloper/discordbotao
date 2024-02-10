@@ -1,1 +1,1 @@
-Repositório para Link pro discord
+Este é apenas um botão de redirecionamento para o discord
